@@ -1,14 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering: Theory Made Practical
+title: The difficult things will always be difficult
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2016-02-06
 labels:
-  - Software Engineering
-  - Learning
+  - Engineering
 ---
-
 <img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
 
 Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
