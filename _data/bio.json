@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Cryptocurrency",
+      "name": "Cryptocurrency ",
       "keywords": [
         "Ethereum",
         "Stellar",
@@ -37,19 +37,19 @@
       ]
     },
     {
-      "name": "App-development",
+      "name": "App-development ",
       "keywords": [
         "Android"
       ]
     },
     {
-      "name": "Machine Learning",
+      "name": "Machine Learning ",
       "keywords": [
         "Artificial Intelligence"
       ]
     },
     {
-      "name": "Game Design",
+      "name": "Game Design ",
       "keywords": [
       ]
     }
@@ -79,7 +79,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "08-22-2016",
+      "startDate": "08-22-16",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -89,8 +89,8 @@
       "institution": "University of California, Santa Barbara, CA",
       "area": "Biology (swapped majors upon transfer)",
       "studyType": "B.A.",
-      "startDate": "09-28-2014",
-      "endDate": "08-22-2016",
+      "startDate": "09-28-14",
+      "endDate": "08-22-16",
       "gpa": "",
       "courses": [
       ]
