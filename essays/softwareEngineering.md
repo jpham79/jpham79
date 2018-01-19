@@ -10,4 +10,9 @@ labels:
 
 <img class="ui tiny left circular floated image" src="../images/Software-engineers-in-contrast-quantify-things.png">
 
-I've always been fascinated by how things are made from the bottom up. When we browse the internet we can see millions of different applications and programs all created from scratch or through the use of open source software, but how did they come to be?
+I've always been fascinated by how things are made from scratch. These things that I've been pondering can range from toys to vehicles and even to society itself. If I think about it too much I begin to realize just how little I actually know in the grand scheme of things. When we browse the internet, we can see millions of different applications and software all created from scratch or through the use of open sourced code, but what kind of effort really went into making these various programs? This was the start of my interest in Software Engineering. 
+
+For those that have the same interests as I do and would like to pursue the same path; be prepared to learn. Be prepared to spend your whole life learning things you didn't even know that you needed to learn. My experiences as a computer science major at the University of Hawaii at Manoa has been both simultaneously difficult and enjoyable. I expected to only learn about coding and the tools in order to build applications and software, but in reality that was only a small portion of what has allowed me to develop as a better Computer Scientist. Alongside basic programming skills, I was hammered with the theories and topics such as algorithms and discrete math. These topics have allowed me to think in new ways and in a manner that will make me a better software engineer.
+
+Now heading into the future in my first Software Engineering class, I have high hopes of putting my knowledge and theory into practical use. I am excited to learn about knew technologies and the efficient ways of implementing them. Working with others to collaborate and create projects that emphasize the skills that we have gained from taking these theory classes are now what excites me the most.
+
