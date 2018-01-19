@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: Software Engineering: Theory Made Practical
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2018-01-17
 labels:
-  - Engineering
+  - Software Engineering
+  - Algorithms
 ---
 <img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
 
