@@ -79,7 +79,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "08-22-16",
+      "startDate": "2016-08-22",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -89,7 +89,7 @@
       "institution": "University of California, Santa Barbara, CA",
       "area": "Biology (swapped majors upon transfer)",
       "studyType": "B.A.",
-      "startDate": "09-28-14",
+      "startDate": "2014-09-29",
       "endDate": "08-22-16",
       "gpa": "",
       "courses": [
@@ -122,7 +122,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "voldnteer": [
     { 
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
