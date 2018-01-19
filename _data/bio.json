@@ -6,7 +6,7 @@
     "email": "jpham79@hawaii.edu",
     "phone": "808-443-6325",
     "website": "https://jpham79.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
       "postalCode": "96826",
@@ -22,26 +22,33 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Justin Pham",
+        "url": "https://www.linkedin.com/in/justin-pham-8a38bb156/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cryptocurrency",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Ethereum",
+        "Stellar",
+        "Bitcoin"
       ]
     },
     {
-      "name": "data mining",
+      "name": "App-development",
       "keywords": [
+        "Android"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
+      "keywords": [
+        "Artificial Intelligence"
+      ]
+    },
+      "name": "Game Design",
       "keywords": [
       ]
     }
@@ -60,7 +67,7 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-         "Windows",
+        "Windows",
         "Git/GitHub",
         "Unix"
       ]
@@ -69,9 +76,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "08-22-2016",
       "endDate": "Present",
       "gpa": "",
       "courses": [
