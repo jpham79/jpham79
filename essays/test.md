@@ -6,7 +6,6 @@ title: Software Engineering: Theory Made Practical
 date: 2018-01-17
 labels:
   - Software Engineering
-  - Algorithms
 ---
 <img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
 
