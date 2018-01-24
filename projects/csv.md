@@ -13,6 +13,6 @@ labels:
 summary: A CSV File Reader I am working on in ICS 321.
 ---
 
-I was given a skeleton by Professor Lipyeow Lim and am currently developing a CSV File Reader. It is able to search through CSV files in a certain format and return rows of data that either match the given paramaters or exceed the given parameters based on which commands are called. As of this moment, I am working on a way to first convert the given input into binary then return it in its ascii format. This project is teaching me how to process large amounts of data and make simple queries. 
+I was given a skeleton by Professor Lipyeow Lim and am currently developing a CSV File Reader. It is able to search through CSV files in a certain format and return rows of data that either match the given paramaters or exceed the given parameters based on which commands are called. The idea was to implement effecient ways to process files that are too large to be stored in memory, so three different approaches were taken: Using a filereader and processing the content character by character, Using a bufferedreader and processing the content line by line, Using a compression library to encode the file and then process it byte by byte.  
 
-You may view the source code [Here](https://github.com/jpham79/CSV-File-Reader)
+The source code is hidden for now as the professor has extended the due date on the assignment.
