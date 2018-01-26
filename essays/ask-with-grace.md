@@ -8,5 +8,5 @@ labels:
   - Software Engineering
   - Stack Overflow
 ---
-<img class="ui right circular floated image" src="../images/javascriptMeme.png">
-test
+<img class="ui right circular floated image" src="../images/stackOverflowPic.png">
+## We've All Been There
