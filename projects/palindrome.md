@@ -11,7 +11,7 @@ labels:
 summary: I developed a simple palindrome checker for my ICS 211 class.
 ---
 
-Palindrome Checker is a simple java application that takes in a string and uses stack operations in order to verify if the given string is a palindrome. Applications such as this palindrome checker can be used in many different cases. One real life example would be in crosschecking DNA sequences that contain palindromes. This project allowed me to get myself more familiar with the stack data structure and was good practice for future projects using the stack data structure. 
+Palindrome Checker is a simple java application that takes in a string and uses stack operations in order to verify if the given string is a palindrome. A palindrome is a string that is the same forwards and backwards. An example of this would be "racecar," which is spelt the same both ways. Applications such as this palindrome checker can be used in many different cases if improved upon. One real life example would be in crosschecking DNA sequences that contain palindromes. This project allowed me to get myself more familiar with the stack data structure and was good practice for future projects using the stack data structure. 
 
 You may view the source code [Here](https://github.com/jpham79/Palindrome-Checker)
 
