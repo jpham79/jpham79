@@ -6,7 +6,7 @@ title: "Saving Face Ask With Grace"
 date: 2018-01-25
 labels:
   - Software Engineering
-  -Stack Overflow
+  - Stack Overflow
 ---
 <img class="ui right circular floated image" src="../images/javascriptMeme.png">
 test
