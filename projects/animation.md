@@ -5,7 +5,7 @@ image: images/spaceship.png
 title: First ICS Animation
 permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-3
+date: 2018-01-13
 labels:
   - Java
   - Animation
