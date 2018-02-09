@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: "Software Engineering: Theory Made Practical"
+title: "To Be, Or Not To Be Unique"
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-17
+date: 2018-02-08
 labels:
-  - Software Engineering
+  - Coding Standards
 ---
 
 
