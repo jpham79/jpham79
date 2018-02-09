@@ -7,7 +7,8 @@ date: 2018-02-08
 labels:
   - Coding Standards
 ---
-<img class="ui right circular floated image" src="../images/codingStyle.png">
+
+
 ## It Doesn't Matter
 How your code looks... at least to the computer. You can write your whole program on one disgusting line if that's what you want. I don't care. You probably don't care either if that's what you're doing in the first place. However, if you do want others to care about what you're writing then perhaps looking into "Coding Standards" is a good place to begin. If you're a beginner programmer or just starting to learn the basics of computer science then you may not yet have been exposed to what has come to be known as "Coding Standards." What is it? Simply put, it's a set of "self" imposed(or by your boss/client) rules in order to keep your code readable and standardized across different versions. 
 
@@ -17,3 +18,4 @@ There isn't only one correct style. Some people might be fervishly convicing you
 ## ESLint
 Lately I've been using ESLint, a tool that identifies patterns to help maintain the quality of your code. It's been an interesting experience.
 
+<img class="ui right circular floated image" src="../images/codingStyle.png">
