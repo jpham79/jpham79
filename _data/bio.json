@@ -65,6 +65,7 @@
       "keywords": [
         "C",
         "Java",
+        "SQL",
         "Javascript",
         "React",
         "Meteor"
@@ -76,7 +77,9 @@
       "keywords": [
         "Windows",
         "Git/GitHub",
-        "Unix"
+        "Unix",
+        "Oracle Database",
+        "Java DB"
       ]
     },
   ],
