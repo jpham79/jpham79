@@ -29,11 +29,8 @@
   },
   "interests": [
     {
-      "name": "Cryptocurrency ",
+      "name": "Algorithms ",
       "keywords": [
-        "Ethereum",
-        "Stellar",
-        "Bitcoin"
       ]
     },
     {
@@ -41,10 +38,13 @@
       "keywords": [
         "Android"
       ]
-    },
+    },    
     {
-      "name": "Algorithms ",
+      "name": "Cryptocurrency ",
       "keywords": [
+        "Ethereum",
+        "Stellar",
+        "Bitcoin"
       ]
     },
     {
@@ -54,12 +54,11 @@
     },
   ],
     {
-      "name": "Web Development ",
+      "name": "Web Development",
       "keywords": [
       ]
     },
-  ],
-    
+  ], 
   "skills": [
     {
       "name": "Languages and Frameworks",
