@@ -43,9 +43,8 @@
       ]
     },
     {
-      "name": "Machine Learning ",
+      "name": "Algorithms ",
       "keywords": [
-        "Artificial Intelligence"
       ]
     },
     {
@@ -61,7 +60,9 @@
       "keywords": [
         "C",
         "Java",
-        "Javascript"
+        "Javascript",
+        "React",
+        "Meteor"
       ]
     },
     {
