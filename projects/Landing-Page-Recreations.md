@@ -13,7 +13,7 @@ labels:
   - CSS
 summary: Website landing pages that I've recreated in order to further develop my skills in HTML/CSS and JavaScript.
 ---
-Below are a couple of my recreations that I have done. Using a combination of different frameworks including Semantic UI, React, and Meteor I was able to essentially copy the look of these websites to hone my skill. The websites I chose in order are: Hard Rock Cafe, Island Snow, and Ginza Nightclub. Overall these websites were not the hardest to recreate, but they were fun to make and good practice.
+Below are a couple of my recreations that I have done. Using a combination of different frameworks including Semantic UI, React, and Meteor I was able to essentially copy the look of these websites to hone my skill. The websites I chose in order are: [Hard Rock Cafe](http://www.hardrock.com/cafes/honolulu/), [Island Snow](https://islandsnow.com/), and [Ginza Nightclub](http://www.ginzanightclub.com/#intro-shift). Overall these websites were not the hardest to recreate, but they were fun to make and good practice.
 
 This first picture is a recreation of the top portion of the Hard Rock Cafe in Honolulu's home page. The current page compared to my recreation has more clutter on it, so I decided to clean it up a little bit to be more aesthetically pleasing.
 
