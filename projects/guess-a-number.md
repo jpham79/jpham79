@@ -22,4 +22,5 @@ user input, comparing it to a random number(Duke's Number) and then inserting th
 A table is then shown to the user by performing an SQL query and storing the results into an ArrayList of Attempts and displaying it.
 
 The source code can be found [here](https://github.com/jpham79/GuessANumberWebApp).
+
 <img class="ui square floated image" src="../images/guessANumberpic.png">
