@@ -31,4 +31,4 @@ be able to produce their own code without worrying too much about what others ha
 more difficult to accomplish tasks or modify existing code, so I challenge you to start using them if you haven't already.
 
 
-<img class="ui floated image" src="../images/mvce.png">
+<img class="ui floated image" src="../images/mvc.png">
