@@ -14,7 +14,7 @@ summary: A washing machine and dryer tracking application that can be extened to
 ---
 <img class="ui square floated image" src="../images/wnd-landing.png">
 
-##Wash-N-Dash
+## Wash-N-Dash
 Wash-N-Dash is an app made by students for students. Wash-N-Dash allows UH Manoa students to track the progress of their
 laundry from anywhere, find laundry rooms, and filter out different machines based on location or type. The app also includes
 reporting features and administrator management tools. Wash-N-Dash was built using the Meteor framework and ReactJs. The application works
@@ -23,7 +23,7 @@ This project allowed me to experience working in a small team and practice vario
 issue based development, version control, resolving merge conflicts, and peer code reviews.
 
 
-##Contributors:
+## Contributors:
 
 Riley Cammack (CENG): rcammack@hawaii.edu
 ice cream enthusiast
@@ -34,5 +34,7 @@ Student, gamer, and derby girl
 David Badke (CS): @hawaii.edu
 Mysterious motercycle/hacker dude
 
-
+## Wash-N-Dash Github Page
 Setup, code, and previews of the application can be seen [here](https://wash-n-dash.github.io/)
+
+<img class="ui square floated image" src="../images/wnd-admin.png">
