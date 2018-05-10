@@ -26,13 +26,12 @@ issue based development, version control, resolving merge conflicts, and peer co
 ## Contributors:
 
 Riley Cammack (CENG): rcammack@hawaii.edu
-ice cream enthusiast
+
 Justin Pham (CS): jpham79@hawaii.edu
-Student by day, gamer by night
+
 Olivia Murray (CS): omurray4@hawaii.edu
-Student, gamer, and derby girl
+
 David Badke (CS): @hawaii.edu
-Mysterious motercycle/hacker dude
 
 ## Wash-N-Dash Github Page
 Setup, code, and previews of the application can be seen [here](https://wash-n-dash.github.io/)
