@@ -26,5 +26,5 @@ OracleDB.
 ## Video Preview
 A video overview can be seen [here](https://www.youtube.com/watch?v=BQGujdpAcMc)
 
-<img class="ui square floated image" src="../images/viewClasses.png">
 <img class="ui square floated image" src="../images/manageClasses.png">
+<img class="ui square floated image" src="../images/viewClasses.png">
