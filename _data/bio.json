@@ -63,13 +63,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "C/C++",
         "Java",
         "SQL",
         "Javascript",
         "HTML",
         "CSS",
         "React",
+        "AngularJs",
         "Meteor"
       ]
     },
@@ -78,7 +79,7 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Git/GitHub",
+        "Git/GitHub/Bitbucket",
         "Unix",
         "Oracle Database",
         "Java DB"
@@ -93,7 +94,7 @@
       "startDate": "2016-08-22",
       "endDate": "Present",
       "gpa": "",
-      "courses": ["ICS 111, ICS 141, ICS 211, ICS 241, ICS 311"
+      "courses": ["ICS 111, ICS 141, ICS 211, ICS 212, ICS 241, ICS 311, ICS 314, ICS 321"
       ]
     },
     {
@@ -107,6 +108,18 @@
       ]
     }
   ],
+  
+    "work": [
+    {
+      "company": "Star",
+      "position": "Assistant Web Developer",
+      "website": "https://www.star.hawaii.edu/studentinterface/",
+      "startDate": "2018-04-15",
+      "endDate": "Present",
+      "summary": "Building Various Web Applications",
+      "highlights": [
+        "Maintain, update, and create web applications for the official UH Manoa registration website"
+      ],
 
   "volunteer": [
     { 
