@@ -15,4 +15,4 @@ summary: A washing machine and dryer tracking application that can be extened to
 ---
 
 Yes, It's very cool.
-Setup, code, and previews of the application can be seen here:https://wash-n-dash.github.io/
+Setup, code, and previews of the application can be seen [here](https://wash-n-dash.github.io/)
