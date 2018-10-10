@@ -112,6 +112,17 @@
     "work": [
     {
       "company": "Star",
+      "position": "Frontend Web Developer",
+      "website": "https://www.star.hawaii.edu/studentinterface/",
+      "startDate": "2018-08-1",
+      "endDate": "Present",
+      "summary": "Large contributions to the development and deployment of the recently released student support hub web application to serve all advisors and students at UH Manoa.",
+      "highlights": [
+        "Maintain, update, and create web applications for the official UH Manoa registration website"
+      ]
+    },      
+    {
+      "company": "Star",
       "position": "Assistant Web Developer",
       "website": "https://www.star.hawaii.edu/studentinterface/",
       "startDate": "2018-04-15",
